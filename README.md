@@ -33,10 +33,6 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cengizdonmez)](https://github.com/cengizdonmez/github-readme-stats)
-
----
-
 <h3>How to reach me:</h3>
 <p>
   <a href="mailto:c.donmezzz@gmail.com"><img alt="mail" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
