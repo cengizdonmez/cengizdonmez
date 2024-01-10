@@ -2,6 +2,7 @@
 
 <p>I describe myself as a self‑learner and cute co‑worker. I enjoy following up‑to‑date technologies and I like to learn.</p>
 
+---
 
 <h3>Technologies I code with:</h3>
 
@@ -27,6 +28,8 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+---
 
 <h3>How to reach me:</h3>
 <p>
