@@ -35,7 +35,6 @@
 
 <h3>How to reach me:</h3>
 <p>
-  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
   <a href="mailto:c.donmezzz@gmail.com"><img alt="mail" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/cengizdonmezzz"><img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/cdonmezzz"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
