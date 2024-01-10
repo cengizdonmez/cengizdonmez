@@ -3,7 +3,7 @@
 <p>I describe myself as a self‑learner and cute co‑worker. I enjoy following up‑to‑date technologies and I like to learn.</p>
 
 
-<h3>Things I code with</h3>
+<h3>Technologies I code with:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
